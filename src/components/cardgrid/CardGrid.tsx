@@ -8,7 +8,7 @@ function CardGrid() {
                 <div className="
                     grid
                     grid-cols-[1fr_2fr] 
-                    gap-4 
+                    gap-5 
                     bg-slate-200 
                     mx-7 
                     my-7 

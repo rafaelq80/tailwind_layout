@@ -11,7 +11,7 @@ function CardFlex() {
                     bg-slate-200 
                     mx-7 
                     my-7 
-                    px-5 
+                    px-4 
                     py-5 
                     max-w-4xl 
                     rounded-2xl 
