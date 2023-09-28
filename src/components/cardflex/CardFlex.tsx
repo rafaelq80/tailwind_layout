@@ -1,5 +1,4 @@
-﻿
-function CardFlex() {
+﻿function CardFlex() {
 
     return (
         <>
